@@ -1,8 +1,8 @@
 {
   "enabled": true,
   "source": "Miracle Team",
-  "title": "Miracle.NEL 2.7.3.1 正式版更新说明",
-  "body": "修复布吉岛进入空岛模式后出现连接中断的情况\n社区交流群下载最新版本:907467510\n-Miracle Team-",
+  "title": "Miracle.NEL 2.7.3.2 正式版更新说明",
+  "body": "修复随机4399需要依赖本地random4399-api-key.txt导致无法使用的情况\n更多更新信息请加入Discord:https://discord.gg/bxFsere4Y7\n社区交流群下载最新版本:907467510\n-Miracle Team-",
   "linkText": "",
   "linkUrl": "",
   "noticeEnabled": true,
